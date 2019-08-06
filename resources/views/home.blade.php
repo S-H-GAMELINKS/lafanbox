@@ -20,4 +20,6 @@
         </div>
     </div>
 </div>
+
+<checkout-component></checkout-component>
 @endsection
